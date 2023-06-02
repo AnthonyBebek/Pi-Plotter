@@ -7,14 +7,14 @@
 - Works with arduio and can run on rasberry pi
 - Working Plotter code for Prototype Plotter
 
-##Requirements to use 
+## Requirements to use 
 - Raspberry Pi 3/4/400
 - Arduino Mega or better
 - 3 28BYJ-48 Steppers and control boards
 - 3D printed Supports
 - Lego technic peices
 
-##How to use 
+## How to use 
 - Install python and the required programs onto your pi
 - Using the instructions, or a prebuilt structure, design a housing for the plotter
 - Connect the 28BYJ-48 Stepper motors to their control board and follow the circut diagrams.
