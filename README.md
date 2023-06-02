@@ -24,5 +24,5 @@
 - Upload a photo of your choice
 - Hit run and presto it will draw the image onto a peice of paper!
 
-##Future Developlement
+## Future Developlement
 This program is still in its alpha phase and most likely will never reach full production. This is only a concept of a real plotter which can eaily be created with the parts provided.
