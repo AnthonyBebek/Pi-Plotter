@@ -1,3 +1,4 @@
+import coms
 yaxis = []
 xaxis = []
 pen = []
@@ -8,6 +9,7 @@ with open('output.txt', 'r') as f:
         pen.append(tmp[0].replace("G", ""))
         xaxis.append(tmp[1].replace("X", ""))
         yaxis.append(tmp[2].replace("Y", ""))
+        coms.move(tmp[1].replace("X", ""),tmp[2].replace("Y", ""))
 
 print(pen)
 print(xaxis)
