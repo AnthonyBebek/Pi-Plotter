@@ -26,3 +26,6 @@
 
 ## Future Developlement
 This program is still in its alpha phase and most likely will never reach full production. This is only a concept of a real plotter which can eaily be created with the parts provided.
+
+![IMG_3849](https://github.com/Fox2low/Plotter/assets/77130209/ec24cf96-bf1f-4be9-a003-477bf5935f1f)
+
