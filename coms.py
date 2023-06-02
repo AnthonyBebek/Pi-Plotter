@@ -11,9 +11,7 @@ def move(x, y):
     lines = []
     pos = str(x) + "," + str(y)
     ser.write(str("M" + pos).encode() + b"\n")
-    print(pos)
     while True:
         res = ser.readline().decode().strip()
         if res == "Done":
-            print(res)
             return
