@@ -14,6 +14,13 @@
 - 3D printed Supports
 - Lego technic peices
 
+## Required Libraries
+- Numpy
+- Imageio v2
+- Pysimplegui
+- Scipy
+- PIL
+
 ## How to use 
 - Install python and the required programs onto your pi
 - Using the instructions, or a prebuilt structure, design a housing for the plotter
