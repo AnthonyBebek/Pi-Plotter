@@ -17,7 +17,6 @@
 ## Required Libraries
 - Numpy
 - Imageio v2
-- Pysimplegui
 - Scipy
 - PIL
 
